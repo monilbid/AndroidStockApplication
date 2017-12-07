@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Portfolio</string>
+    <string name="no_results_found">No Results Found</string>
+    <string name="stockSymbol">Stock Symbol</string>
+    <string name="stockName">Company Name</string>
+    <string name="lastPrice">Last Price</string>
+    <string name="deleteStock">Delete Stock</string>
+    <string name="portfolioFragmentHeader">Your saved stocks</string>
+    <string name="companyListHeader">Please select a company from the following to add to your saved stocks:</string>
+</resources>

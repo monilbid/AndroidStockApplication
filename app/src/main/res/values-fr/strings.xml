@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Portfolio</string>
+    <string name="no_results_found">Aucun résultat trouvé</string>
+    <string name="stockSymbol">Symbole Boursier</string>
+    <string name="stockName">Nom de la Compagnie</string>
+    <string name="lastPrice">Dernier prix</string>
+    <string name="deleteStock">Supprimer le Stock</string>
+    <string name="portfolioFragmentHeader">Vos stocks enregistrés</string>
+    <string name="companyListHeader">Veuillez sélectionner une société parmi les suivantes pour ajouter à vos stocks enregistrés:</string>
+</resources>
