@@ -122,6 +122,7 @@ public class CompanyListFragment extends Fragment {
 
                     if(companyArray.length() > 0) {
                         try {
+                            emptyList = false;
                             for(int i = 0; i < companyArray.length(); i++) {
                                 JSONObject stockObject = companyArray.getJSONObject(i);
                                 String symbol = stockObject.getString("Symbol");
